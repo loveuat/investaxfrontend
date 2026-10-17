@@ -1,0 +1,287 @@
+{
+  "Hero": {
+    "topheading": "Trusted by thousands of travelers",
+    "title": "Trip Mitra Go",
+    "subtitle": "Book your car in seconds. Professional drivers, sanitized cars and 24/7 support for a safe and comfortable journey.",
+    "heading": "Safe & Reliable Car Rentals for Every Journey",
+    "brand": "Trip Mitra Go",
+    "subheading": "Modern Websites Engineered for Speed, Security & Scalability. Save up to 20% and create secure, user-friendly Web & Mobile Experiences.",
+    "cta": "Book Now",
+    "trust1": "Happy Customers",
+    "trust2": "Trips Completed",
+    "trust3": "Years Service",
+    "heroservices": {
+      "safety": "Safe Services",
+      "safetymessage":"Travel with Trip Mitra Go's safe, reliable & professional services.",
+      "professional": "Professional Drivers",
+      "professionalmessage":"Experienced, courteous, and background verified for your safety",
+      "easybooking": "Easy Booking",
+      "easybookingmessage": "Easy Booking",
+      "support": "24x7 Support",
+      "supportmessage": "Round the clock customer support for peace of mind"
+    },
+    "formheading":"Book Your Car in Seconds",
+    "formsubheading":"Fill in the details below and we'll confirm your booking instantly"
+  },
+
+    "BookingForm": {
+    "triptype": "Trip Type",
+    "passengers": "Number of Passengers",
+    "pickuplocation": "Pickup Location",
+    "droplocation": "Drop Location",
+    "pickupdate": "Pickup Date",
+    "pickuptime": "Pickup Time",
+    "whatsappnumber": "Peferably enter your WhatsApp number so we can contact you easily.",
+    "fullname": "Full Name",
+    "phonenumber": "Phone Number",
+    "email": "Email Address",
+    "instructions": "Special Instructions",
+    "booknow": "Book Your Car Now"
+  },
+  "Navbar": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "booknow": "Book Now",
+    "letsChat": "Let's Chat",
+    "contactUs": "Contact Us",
+    "whatsappTitle": "Atulya IT Solutions",
+    "whatsappReply": "Typically replies within minutes",
+    "whatsappMessage": "👋 Hi there! Need help with WordPress, Next.js, SEO, AI Solutions or a new project?",
+    "whatsappButton": "Start WhatsApp Chat"
+  },
+
+  "WhyChooseUs": {
+    "topheading": "Why Choose Trip Mitra Go?",
+    "subheading": "We provide premium car rental services with unmatched quality and customer satisfaction across the centra india",
+    "driver":"Professional Drivers",
+    "drivermessage":"Verified and experienced drivers with excellent track records",
+    "sanitize":"Sanitized Cars",
+    "sanitizemessage":"All vehicles regularly sanitized and maintained to highest standards",
+    "support":"24x7 Support",
+    "supportmessage":"Round-the-clock customer support for any assistance you need",
+    "gps":"GPS Enabled",
+    "gpsmessage":"Advanced GPS tracking for safe and efficient journey monitoring",
+    "affordable":"Affordable Pricing",
+    "affordablemessage":"Best rates in market with transparent billing and no hidden charges",
+    "billing":"Corporate Billing",
+    "billingmessage":"Flexible payment options with monthly contracts and invoicing",
+    "instant":"Instant Booking",
+    "instantmessage":"Quick and easy booking process in just a few seconds",
+    "safe":"Safe Journey",
+    "safemessage":"Premium safety features and emergency support services"
+  },
+
+  "OurServices": {
+    "topheading": "Our Services",
+    "subheading": "Professional taxi solutions for every travel need.",
+
+    "localTaxi": {
+      "title": "Local Taxi",
+      "description": "Quick and reliable service for local city travel.",
+      "features": [
+        "Competitive rates",
+        "Professional drivers",
+        "Instant booking"
+      ]
+    },
+
+    "outstation": {
+      "title": "Outstation Taxi",
+      "description": "Comfortable rides for intercity and long-distance travel.",
+      "features": [
+        "One-way & Round Trip",
+        "Experienced drivers",
+        "24×7 Availability"
+      ]
+    },
+
+    "hourlyRental": {
+      "title": "Hourly Rental",
+      "description": "Book a cab by the hour for flexible travel.",
+      "features": [
+        "Flexible duration",
+        "Affordable pricing",
+        "Unlimited stops"
+      ]
+    },
+
+    "airportTransfer": {
+      "title": "Airport Transfer",
+      "description": "Reliable airport pickup and drop services.",
+      "features": [
+        "Flight tracking",
+        "On-time pickup",
+        "Luggage assistance"
+      ]
+    },
+
+    "corporateTravel": {
+      "title": "Corporate Travel",
+      "description": "Professional transport solutions for businesses.",
+      "features": [
+        "Monthly billing",
+        "Priority support",
+        "Dedicated vehicles"
+      ]
+    },
+
+    "weddingCar": {
+      "title": "Wedding Car",
+      "description": "Luxury cars for weddings and special occasions.",
+      "features": [
+        "Premium vehicles",
+        "Professional chauffeurs",
+        "Custom packages"
+      ]
+    }
+  },
+  "PopularRoutes": {
+    "heading": "Popular Routes",
+    "subheading": "Explore our most requested destinations",
+
+    "fetchError": "Failed to fetch popular routes.",
+    "loadError": "Unable to load popular routes.",
+    "empty": "No popular routes available at the moment.",
+    "startingFrom": "Starting from",
+    "bookNow": "Book Now"
+  },
+   "Testimonials": {
+    "badge": "Testimonials",
+    "heading": "What Our Clients Say",
+    "loading": "Loading testimonials...",
+    "fetchError": "Failed to fetch testimonials."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to frequently asked questions about booking a cab, our services, fares, cancellations, and everything you need to know before your journey with Trip Mitra Go.",
+    "items": [
+      {
+        "question": "What is Trip Mitra Go?",
+        "answer": "Trip Mitra Go is a trusted car rental and taxi booking platform offering local, outstation, airport transfer, one-way, and round-trip cab services with professional drivers and transparent pricing."
+      },
+      {
+        "question": "Which cities does Trip Mitra Go serve?",
+        "answer": "Trip Mitra Go primarily serves Central India, including Raipur, Bilaspur, Durg, Bhilai, Jagdalpur, Jabalpur, Balaghat, Gondia, Nagpur, and nearby cities."
+      },
+      {
+        "question": "What types of trips can I book?",
+        "answer": "You can book local city rides, outstation trips, one-way cabs, round trips, airport transfers, railway station pickups, wedding car rentals, and corporate travel."
+      },
+      {
+        "question": "How can I book a car?",
+        "answer": "You can book a car through our website booking form or by contacting our customer support team."
+      },
+      {
+        "question": "Are your prices transparent?",
+        "answer": "Yes. We provide transparent pricing with no hidden charges. Any tolls, parking fees, or applicable taxes are communicated clearly before your trip."
+      },
+      {
+        "question": "Can I modify or cancel my booking?",
+        "answer": "Yes. Booking modifications and cancellations are available according to our cancellation policy. Please contact our support team as early as possible."
+      }
+    ]
+  },
+   "cta": {
+    "titleBefore": "Need A",
+    "highlight": "Car?",
+    "titleAfter": "Today",
+    "description": "Book your ride in under one minute with Trip Mitra Go. Premium service, competitive rates, and guaranteed safety.",
+    "bookButton": "Book Your Car Now",
+    "callButton": "Call Us Now"
+  },
+"mission": {
+    "missionTitle": "Our Mission",
+    "missionContent": "To provide reliable, affordable, and premium car rental services that exceed customer expectations. We commit to safety, professionalism, and exceptional customer service in every journey.",
+    "visionTitle": "Our Vision",
+    "visionContent": "To become the most trusted and preferred car rental service provider in the region, known for quality, innovation, and customer satisfaction."
+  },
+  "contact": {
+    "titleBefore": "Get In",
+    "highlight": "Touch",
+    "titleAfter": "with us",
+    "description": "Have a question or planning a trip? We're here to help.",
+
+    "locationTitle": "Our Location",
+    "location": "Balaghat, Madhya Pradesh (481441)",
+    "country": "India",
+
+    "emailTitle": "Email Us",
+    "phoneTitle": "Call Us",
+
+    "hoursTitle": "Working Hours",
+    "hours": "We are available 24/7 for our customers.",
+
+    "bottomText": "Planning a trip? Share your requirements with us and our team will get back to you shortly.",
+    "title": "Reach Out",
+    "highlight": "Today",
+
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "service": "Choose Services",
+    "selectService": "Select a Service",
+
+    "websiteDevelopment": "Website Development",
+    "wordpressDevelopment": "WordPress Development",
+    "nextjsDevelopment": "Next.js Development",
+    "seo": "SEO Services",
+    "ecommerce": "eCommerce Development",
+    "ai": "AI Automation",
+    "other": "Other",
+
+    "project": "Tell Us About Your Project",
+
+    "timeframe": "Project Time Frame",
+    "timeframePlaceholder": "How time sensitive is your project?",
+    "asap": "I need it ASAP",
+    "notRush": "I'm not in a rush",
+
+    "referrer": "Referrer",
+    "referrerPlaceholder": "How did you hear about us?",
+    "paidAds": "Paid Advertising",
+    "organic": "Organic Search",
+    "returning": "Returning Customer",
+    "referral": "Referral",
+
+    "consent": "I agree to be contacted by Trip Mitra Go regarding my inquiry. I understand that my information will only be used for communication purposes and will never be shared with third parties.",
+
+    "newsletter": "I want to receive news and service updates from Trip Mitra Go.",
+
+    "submit": "Submit",
+    "loading": "Please wait...",
+
+    "captcha": "Please verify captcha.",
+
+    "success": "Thank you! Your enquiry has been submitted successfully.",
+    "failed": "Unable to submit your enquiry.",
+    "network": "Network error. Please try again later.",
+
+    "validation": {
+      "name": "Name must be at least 2 characters.",
+      "email": "Please enter a valid email address.",
+      "message": "Message must be at least 10 characters.",
+      "service": "Please select a service.",
+      "consent": "You must accept the Privacy Policy to continue."
+    }
+  },
+  "LandingFooter": {
+    "company": "Atulya IT Solutions",
+    "description": "Hire experienced WordPress, Next.js and Full Stack developers for your next project. Fast delivery, transparent communication and long-term support.",
+
+    "trust": {
+      "experts": "100% Dedicated Experts",
+      "nda": "NDA Protected",
+      "delivery": "Fast Delivery"
+    },
+
+    "heading": "Let's Build Something Great",
+    "subheading": "Tell us about your project and get a free consultation.",
+
+    "cta": "Get Free Consultation",
+
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+
+    "copyright": "© 2026 Atulya IT Solutions. All rights reserved."
+  }
+
+}
